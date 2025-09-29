@@ -51,6 +51,8 @@ This project showcases my ability to turn structured sales data into a compellin
   - Year-over-year comparisons and seasonal trends
 - Used slicers and filters for interactive exploration
 - Applied `GETPIVOTDATA` for dynamic referencing in dashboards
+<img width="897" height="488" alt="image" src="https://github.com/user-attachments/assets/fe6925ce-86bf-475c-8296-0f0b32231af5" />
+
 
 ---
 
